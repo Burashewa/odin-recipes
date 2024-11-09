@@ -1,0 +1,42 @@
+body{
+    margin: 25px;
+    padding: 50px;
+}
+h1{
+    font-family: Georgia, serif;
+    font-weight: 800;
+    font-size: 36px;
+    color: hsl(229, 100%, 57%);
+    text-align: center;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 32px;
+    color: hsl(0, 7%, 3%);
+    text-align: center;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color: hsl(0, 39%, 27%);
+}
+.ingredients,
+.steps{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color: hsl(0, 39%, 27%);
+    line-gap-override: 1.5px;
+
+}
+#container{
+    padding: auto;
+    background-color: hsl(204, 22%, 91%);
+    display: flex;
+    justify-items: center;
+}
+.recipes{
+    font-family: Verdana,Tahoma, sans-serif;
+    font-size: 24px;
+}
+
